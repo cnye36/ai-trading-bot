@@ -1,0 +1,1 @@
+{"version":3,"file":"configManager.d.ts","sourceRoot":"","sources":["../../../lib/configManager.ts"],"names":[],"mappings":"AAEA,qBAAa,aAAa;IACtB,OAAO,CAAC,MAAM,CAA+B;;IAO7C,OAAO,CAAC,UAAU;IAmBlB,GAAG,CAAC,GAAG,EAAE,MAAM,EAAE,YAAY,CAAC,EAAE,GAAG,GAAG,GAAG;IAIzC,GAAG,CAAC,GAAG,EAAE,MAAM,EAAE,KAAK,EAAE,GAAG,GAAG,IAAI;IAIlC,cAAc,IAAI,OAAO;CAY5B"}
